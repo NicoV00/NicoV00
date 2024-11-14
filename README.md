@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nicolás Valles</h1>
-<h3 align="center">A Full stack software developer student from Uruguay 📚</h3>
+<h1 align="center" style="color: #00ff00;">Nicolás Valles📚</h1>
+<h3 align="center" style="color: #00ff00;">FULL STACK CREATIVE SOFTWARE DEVELOPER 📚</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NicoV00&label=Profile%20views&color=0e75b6&style=flat" alt="NicoV00" /> </p>
-<p align="left">
+<p align="right" style="color: #00ff00; font-size: 18px;">
+    Current Time: <span id="local-time"></span>
 </p>
 
+<p align="center">
+    I’m a Full Stack Developer from Montevideo, Uruguay, with a deep passion for interactive design and technology. My background is complemented by a growing interest in multidisciplinary design. Currently, I’m focusing on improving my skills in crafting 3D animations and integrating them innovatively into my web projects. My goal is to blend functionality and aesthetics to deliver unique and engaging digital experiences.
+</p>
+
+<p align="center">
+    I’m open to freelance work and collaborative projects! Feel free to reach out if you have an idea or challenge you’d like to discuss.
+</p>
 
 <!-- Skills -->
 <div align="center">
@@ -25,7 +32,18 @@
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
+<!-- Adobe Logo -->
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+<p align="center">Adobe programs.</p>
+
+<!-- Three.js Logo -->
+![Three.js](https://img.shields.io/badge/Three.js-%000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8cGF0aCBkPSJNNTUuMTQyIDY4LjYxNiBMNjAuNzQyIDY4LjYxNiBMNjAuNzQyIDU2LjA5OSBMNTUuMTQyIDU2LjA5OSBMNTUuMTQyIDY4LjYxNiBaIiBmaWxsPSIjMDAwMDAwIiBvcGFjaXR5PSIxLjAiLz4KPC9zdmc+Cg==)
+<p align="center">Three.js</p>
 
 </div>
 <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoV00&show_icons=true&locale=en&layout=compact" alt="NicoV00" /></p>
+
+<script>
+    function updateTime() {
+        const options = { timeZone: 'America/Montevideo', hour: '2-digit', minute: '2-digit', second: '2-digit' };
+        const timeString =
