@@ -1,8 +1,8 @@
 <h1 align="center" style="color: #00ff00;">NICOLÁS VALLES</h1>
 <h3 align="center" style="color: #00ff00;">FULL STACK CREATIVE SOFTWARE DEVELOPER 📚</h3>
 
-<p align="right" style="color: #00ff00; font-size: 18px;">
-    LOCAL TIME / MONTEVIDEO, UY
+<p align="right" style="color: #00ff00; font-size: 14px;">
+       Local time: Montevideo, UY
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 <!-- Adobe Logo -->
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-<!-- Three.js Logo -->
+<!-- Updated Three.js Logo -->
 ![Three.js](https://img.shields.io/badge/Three.js-%000000.svg?style=for-the-badge)
 
 </div>
