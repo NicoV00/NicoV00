@@ -27,5 +27,5 @@ I'm open to freelance work and collaborative projects.
 ---
 
 <div align="center">
-  <img src="https://fakeimg.pl/150x50/?text=N.V&font=oldenglish" alt="N.V" />
+  ![image](https://github.com/user-attachments/assets/32953b49-2c9e-4723-90b8-358f5660e9fe)
 </div>
