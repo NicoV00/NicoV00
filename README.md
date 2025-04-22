@@ -1,16 +1,13 @@
-I'm a Creative Developer from Montevideo, Uruguay. I combine design principles with coding to build engaging digital experiences.
-
+# I'm a Creative Developer from Montevideo, Uruguay. I combine design principles with coding to build engaging digital experiences.
 My approach mixes development with creative techniques to craft intuitive and visually appealing projects. I work on websites and experimental interfaces.
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
 I'm open to freelance work and collaborative projects.
@@ -27,5 +24,5 @@ I'm open to freelance work and collaborative projects.
 ---
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/32953b49-2c9e-4723-90b8-358f5660e9fe)
+  <img src="https://github.com/user-attachments/assets/32953b49-2c9e-4723-90b8-358f5660e9fe" alt="Tu imagen de perfil">
 </div>
