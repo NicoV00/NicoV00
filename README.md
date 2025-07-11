@@ -1,4 +1,4 @@
-Independent interactive developer from Montevideo, Uruguay. I combine multidisciplinary design principles with development to build engaging digital experiences. Crafting high perfomance websites and experimental interfaces.
+Independent interactive developer blending multidisciplinary design principles with custom development to build high-conversion digital experiences, crafting high-performance websites and experimental interfaces.
 
 <div align="center">
   <h2>Tech Stack</h2>
