@@ -1,4 +1,4 @@
-Independent interactive developer blending multidisciplinary design principles with custom development to build high-conversion digital experiences, crafting high-performance websites and experimental interfaces.
+Independent interactive developer blending multidisciplinary design principles with custom creative development, focused on crafting refined web experiences built with precision and impact.
 
 <div align="center">
   <h2>Tech Stack</h2>
@@ -10,7 +10,7 @@ Independent interactive developer blending multidisciplinary design principles w
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-I'm open to freelance work and collaborative projects.
+Currently open to freelance work and collaborative projects, hit me up on my socials.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
