@@ -1,4 +1,4 @@
-Independent interactive developer blending multidisciplinary design principles with custom creative development, focused on crafting refined web experiences built with precision and real impact.
+Independent interactive developer blending multidisciplinary design principles with custom creative development, focused on crafting refined web experiences, built with precision, made for real impact.
 
 
 <div align="center">
